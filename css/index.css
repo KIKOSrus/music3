@@ -1,0 +1,6 @@
+.albums .card:hover {
+    outline: 4px solid rgb(253, 255, 108);;
+}
+.albums a {
+    color: gray;
+}

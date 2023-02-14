@@ -1,0 +1,9 @@
+.list-group-item:hover {
+    outline: 4px solid #ffdb4d;
+    z-index: 1;
+    cursor: pointer;
+}
+
+.author {
+    color: rgb(0, 183, 255);
+}
